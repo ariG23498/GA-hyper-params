@@ -12,4 +12,4 @@ The code is written in `tf.keras`. The repository has the following notebooks:
 2. **generation.ipynb** - This notebook deals with the code of building the problem of genetic algorithm. It run like a scripts which in turn generates specified number of organisms in a generation and then evolved the organisms. The variable genetic algorigthm also help the organisms evolve and increase their depth.
 
 ## WandB integration
-This code has an integration with [weights and biases](https://wandb.ai). This helps in visualizing the metrics of the problem better and at run time. The code is also supported by a (wandb report)[].
+This code has an integration with [weights and biases](https://wandb.ai). This helps in visualizing the metrics of the problem better and at run time. The code is also supported with a wandb report.
