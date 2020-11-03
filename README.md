@@ -1,5 +1,7 @@
 # Efficient Hyperparameter Optimization in Deep Learning Using a Variable Length Genetic Algorithm
 
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aritrag/generation-w-b)
+
 This is the code base for the paper [Efficient Hyperparameter Optimization in Deep Learning Using a Variable Length Genetic Algorithm](https://arxiv.org/abs/2006.12703v1) by Xueli Xiao, Ming Yan, Sunitha Basodi, Chunyan Ji, Yi Pan.
 
 ![Figure 3: Crossover](https://paper-attachments.dropbox.com/s_3FAC7807F13AA47098FF7FED0F2110886AE6723CCA01B465B23C89F16D0B6550_1602958487493_crossover.png)
